@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{86543365-ABA5-407B-B526-239132428B47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Regu-Exam3/Program.cs">
+    <Files>
+      <File FileName="Regu-Exam3/Program.cs" Line="72" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Regu-Exam3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

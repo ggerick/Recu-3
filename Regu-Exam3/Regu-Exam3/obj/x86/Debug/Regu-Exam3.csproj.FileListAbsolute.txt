@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/Regu-Exam3/Regu-Exam3/bin/Debug/Regu-Exam3.exe
+/Users/AlanGarcia/Projects/Regu-Exam3/Regu-Exam3/bin/Debug/Regu-Exam3.pdb
+/Users/AlanGarcia/Projects/Regu-Exam3/Regu-Exam3/obj/x86/Debug/Regu-Exam3.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/Regu-Exam3/Regu-Exam3/obj/x86/Debug/Regu-Exam3.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/Regu-Exam3/Regu-Exam3/obj/x86/Debug/Regu-Exam3.exe
+/Users/AlanGarcia/Projects/Regu-Exam3/Regu-Exam3/obj/x86/Debug/Regu-Exam3.pdb
